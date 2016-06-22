@@ -1,0 +1,14 @@
+layout_spectrum: 0.5130274861585349
+typography_spectrum: 0.8585620461963117
+color:
+  brandStrength: 0.8161261936184019
+  lightness: 0.813685585744679
+  saturation: 0.7834619446657598
+  rhythmicContrast: 0.7780575505457819
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: westlands
