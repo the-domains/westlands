@@ -6,9 +6,9 @@ color:
   saturation: 0.7834619446657598
   rhythmicContrast: 0.7780575505457819
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 name: westlands
