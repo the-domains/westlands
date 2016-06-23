@@ -4,28 +4,21 @@
         <description><![CDATA[westlands]]></description>
         <link>https://thegrid.ai/westlands/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 14:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 14:50:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/westlands/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Friday commute]]></title>
+            <description><![CDATA[<article><h1>Friday commute</h1><p>Getting home on a Friday evening in Nairobi</p></article>]]></description>
+            <link>https://vimeo.com/168362221</link>
+            <guid isPermaLink="false">a0560fd2-5f88-496f-8c5c-20d24ee8b8ba</guid>
+            <pubDate>Thu, 23 Jun 2016 14:50:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12e49a73-7ef7-4950-9873-d7a8fa00b0b0.jpg">]]></description>
             <link>https://thegrid.ai/westlands/72b6c34a-bf61-4ec5-9b7f-a56e7d2bc6c2/index.html</link>
             <guid isPermaLink="false">72b6c34a-bf61-4ec5-9b7f-a56e7d2bc6c2</guid>
             <pubDate>Thu, 23 Jun 2016 13:33:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The First-Ever 360-Degree Video Surgery Is Happening On Thursday]]></title>
-            <description><![CDATA[<article><h1>The First-Ever 360-Degree Video Surgery Is Happening On Thursday</h1><p>Over the course of two hours or so on Thursday, Dr. Shafi Ahmed will perform a more-or-less routine surgery on a man in his seventies with colon cancer. The 47-year-old cancer specialist will make a small slice on the patient's belly, remove the tumor from his bowel, and stitch the tissue back together.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e2236279d263b94ba2ebd6fadb2339821d0b2915.jpg"></article>]]></description>
-            <link>http://www.buzzfeed.com/stephaniemlee/the-first-ever-360-degree-video-surgery-is-happening-on-thur#.rr1LK2rYZ</link>
-            <guid isPermaLink="false">e4ea12b3-ee46-4a36-aa7f-7718a5d1afbc</guid>
-            <pubDate>Wed, 22 Jun 2016 19:15:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[7 Gadgets That'll Actually Get You Excited to Work Out]]></title>
-            <description><![CDATA[<article><h1>7 Gadgets That'll Actually Get You Excited to Work Out</h1><p>Gadgets and devices that make working out more enjoyable, including games, music players, and muscle trackers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed18c54aed57db2debfacd2f488512d1a298fb17.jpg"></article>]]></description>
-            <link>https://www.thrillist.com/tech/nation/7-gadgets-and-apps-for-working-out-push-band-goji-play-bodyspace/tech</link>
-            <guid isPermaLink="false">2df5e644-293a-4366-9c7e-f5b7622011fa</guid>
-            <pubDate>Wed, 22 Jun 2016 19:15:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
